@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franc-Eric Amagbegnon</h1>
 <h3 align="center">Je suis passionné pas le développement web et Mobile</h3>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francky18&label=Profile%20views&color=0e75b6&style=flat" alt="francky18" /> </p>
 
